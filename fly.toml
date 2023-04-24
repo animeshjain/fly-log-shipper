@@ -1,5 +1,4 @@
-# fly.toml file generated for personal-org-log-shipper on 2023-02-15T11:02:41+05:30
-app = "personal-org-log-shipper"
+app = "cof-log-shipper-prod"
 
 [metrics]
   port = 9598
