@@ -1,4 +1,4 @@
-app = "cof-log-shipper-prod"
+app = "personal-org-log-shipper"
 
 [metrics]
   port = 9598

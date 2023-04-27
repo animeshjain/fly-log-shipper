@@ -1,0 +1,8 @@
+app = "cof-log-shipper-prod"
+
+[metrics]
+  port = 9598
+  path = "/metrics"
+
+[env]
+  ORG = "cof-prod"
